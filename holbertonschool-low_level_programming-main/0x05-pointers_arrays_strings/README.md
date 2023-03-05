@@ -13,9 +13,10 @@
 ## RESOURCES:
 
  <ol>
-	<li><a href="/rltoken/JDzn5TfvFN41WKKvjOfvTg" title="C - Arrays" target="_blank">C - Arrays</a> </li>
-	<li><a href="/rltoken/9CA1cUi3AxHOszdncsKC7g" title="C - Pointers" target="_blank">C - Pointers</a> </li>
-	<li><a href="/rltoken/VBdJIrssmpg5YLOfoGTVnA" title="C - Strings" target="_blank">C - Strings</a> </li>
+	<li><a href="https://www.tutorialspoint.com/cprogramming/c_arrays.htm" title="C - Arrays" target="_blank">C - Arrays</a> </li>
+	<li><a href="https://www.tutorialspoint.com/cprogramming/c_pointers.htm" title="C - Pointers" target="_blank">C - Pointers</a> </li>
+	<li><a href="https://www.tutorialspoint.com/cprogramming/c_strings.htm" title="C - Strings" target="_blank">C - Strings</a> </li>
+	<li><a href="https://aticleworld.com/memory-layout-of-c-program/" title="Memory Layout" target="_blank">Memory Layout</a> </li>
 </ol>
 
 ## INTRODUCTION TO FILES :closed_book::closed_book::closed_book::
